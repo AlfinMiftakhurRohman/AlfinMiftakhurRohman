@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Alfin 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlfinMiftakhurRohman/AlfinMiftakhurRohman/main/alfinn.jpg" 
-       width="180" 
-       style="border-radius:50%;" 
-       alt="Alfin Photo"/>
+  <img src="https://raw.githubusercontent.com/AlfinMiftakhurRohman/AlfinMiftakhurRohman/main/alfinn.jpg" width="180"/>
 </p>
 
 
